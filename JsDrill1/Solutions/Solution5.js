@@ -1,4 +1,5 @@
 
+
 function solution5(arrayOfObjects){
     let age = [];
     for(let index=0; index<arrayOfObjects.length ;index++)
