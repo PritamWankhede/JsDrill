@@ -1,5 +1,6 @@
 
 
+
 function solution4(arrayOfObjects,index){
     if(index >= 0 && index < arrayOfObjects.length){
      if(index === 3){
