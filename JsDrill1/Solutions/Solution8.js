@@ -1,5 +1,6 @@
 
 
+
 function session8(arrayOfObjects){
     let city = [];
     let country = [];
